@@ -28,7 +28,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/consumet/consumet.ts.git"
+    "url": "git+https://github.com/duynd-lucivn/consumet/consumet.ts.git"
   },
   "keywords": [
     "consumet",
@@ -51,7 +51,7 @@
   "bugs": {
     "url": "https://github.com/consumet/consumet.ts/issues"
   },
-  "homepage": "https://github.com/consumet/consumet.ts#readme",
+  "homepage": "https://github.com/duynd-lucivn/consumet/consumet.ts#readme",
   "dependencies": {
     "ascii-url-encoder": "^1.2.0",
     "axios": "^0.27.2",
